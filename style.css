@@ -13,7 +13,7 @@ body {
 }
 
 .home {
-    padding-inline: 60px;
+    padding-inline: 10px;
     padding-block: 5px;
     background-color: rgba(225, 242, 255, 0.662);
     border-bottom: 2px solid var(--dark);
@@ -21,7 +21,7 @@ body {
 
 
 .home__container .hero__container{
-    width: 500px
+    width: 1000px
     margin-inline: auto
 }
 
@@ -33,7 +33,7 @@ body {
 
 .home__list {
 display: flex;
-gap: 50px;
+gap: 30px;
 padding-top: 20px;
 }
 
