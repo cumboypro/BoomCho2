@@ -21,12 +21,14 @@ body {
 
 
 .home__container .hero__container{
+    width: 500px
+    margin-inline: auto
 }
 
 .home__nav {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .home__list {
