@@ -27,7 +27,6 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    width: 400px;
 }
 
 .home__list {
