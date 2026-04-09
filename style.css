@@ -13,7 +13,7 @@ body {
 }
 
 .home {
-    padding-inline: 30px;
+    padding-inline: 60px;
     padding-block: 5px;
     background-color: rgba(225, 242, 255, 0.662);
     border-bottom: 2px solid var(--dark);
